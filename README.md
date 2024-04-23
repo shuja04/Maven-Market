@@ -30,4 +30,6 @@ The visual report in the MavenMarket Power BI project offers a comprehensive vie
 
 The MavenMarket Power BI project demonstrates the power of data analysis and visualization in uncovering actionable insights and driving business performance. By leveraging advanced techniques and tools, this project delivers valuable recommendations for improving revenue, optimizing inventory, and enhancing customer satisfaction in the retail industry.
 
----
+## Snap of Dashboard
+
+![Maven_Snap](https://github.com/shuja04/Sales-Data-Analysis-Visualization-Project/assets/167103109/04305263-ebd4-4cfb-9c37-c5738f97c182)
